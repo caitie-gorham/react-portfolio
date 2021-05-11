@@ -8,10 +8,18 @@ function Header() {
                 <div className="container-fluid">
                     <div className="container-md">
                         <button className="navbar-brand-name" href="#">Caitie Gorham</button>
-                        <div class="ml-auto navbar-nav navbar-nav-links">
-                            <a className="nav-link" href="/">Home</a>
-                            <a className="nav-link" href="/portfolio">Portfolio</a>
-                            <a className="nav-link" href="/contact">Contact</a>
+                        <div class="navbar-collapse collapse justify-content-stretch">
+                            <ul class="navbar-nav ml-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/portfolio">Portfolio</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/contact">Contact</a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
