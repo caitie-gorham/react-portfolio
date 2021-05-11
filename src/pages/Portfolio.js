@@ -4,6 +4,14 @@ import Row from "../components/Row/index"
 import Col from "../components/Col/index"
 import Project from "../components/Project/index"
 
+// import images
+import weatherImg from "../assets/weather-dashboard.png"
+import workdayImg from "../assets/workday-calendar.png";
+import shop from "../assets/shop-pantry.png";
+import password1gen from "../assets/password-generator.png";
+import note from "../assets/notetaker.png";
+import homegrown from "../assets/homegrown.png"
+
 function Portfolio() {
     return (
         <>
@@ -13,7 +21,7 @@ function Portfolio() {
                         title="Weather Dashboard"
                         deployedLink="https://caitie-gorham.github.io/weatherDashboard/#"
                         githubLink="https://github.com/caitie-gorham/weatherDashboard"
-                        imgName="weather-dashboard"
+                        imgName={weatherImg}
                     />
                 </Col>
                 <Col size="md-6">
@@ -21,7 +29,7 @@ function Portfolio() {
                         title="Password Generator"
                         deployedLink="https://caitie-gorham.github.io/passwordGenerator/"
                         githubLink="https://github.com/caitie-gorham/passwordGenerator"
-                        imgName="password-generator"
+                        imgName={password1gen}
                     />
                 </Col>
             </Row>
@@ -31,7 +39,7 @@ function Portfolio() {
                         title="Workday Calendar"
                         deployedLink="https://caitie-gorham.github.io/workdayCalendar/"
                         githubLink="https://github.com/caitie-gorham/workdayCalendar"
-                        imgName="workday-calendar"
+                        imgName={workdayImg}
                     />
                 </Col>
                 <Col size="md-6">
@@ -39,7 +47,7 @@ function Portfolio() {
                         title="Shop Your Pantry"
                         deployedLink="https://caitie-gorham.github.io/shopYourPantry/"
                         githubLink="https://github.com/caitie-gorham/shopYourPantry"
-                        imgName="shop-pantry"
+                        imgName={shop}
                     />
                 </Col>
             </Row>
@@ -49,7 +57,7 @@ function Portfolio() {
                         title="Homegrown"
                         deployedLink="https://homegrown-app-grizzlies.herokuapp.com"
                         githubLink="https://github.com/caitie-gorham/project-2"
-                        imgName="homegrown"
+                        imgName={homegrown}
                     />
                 </Col>
                 <Col size="md-6">
@@ -57,7 +65,7 @@ function Portfolio() {
                         title="Note Taker"
                         deployedLink="https://pure-island-68360.herokuapp.com"
                         githubLink="https://github.com/caitie-gorham/noteTaker"
-                        imgName="notetaker"
+                        imgName={note}
                     />
                 </Col>
             </Row>

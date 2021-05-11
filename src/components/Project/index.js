@@ -2,7 +2,6 @@ import React from 'react';
 import "../Project/style.css"
 
 function Project(props) {
-    const imgSrc = `./assets/${props.imgName}.png`
     return (
       <div className="project-container">
         <h4>{props.title}</h4>
@@ -11,7 +10,7 @@ function Project(props) {
           <a href={props.githubLink}>GitHub Repository</a>
         </div>
         <a href={props.deployedLink}>
-          <img src={imgSrc} width="350" className="img-responsive image-thumbnail" alt="Project" />
+        <img src={props.imgName} width="350" className="img-responsive image-thumbnail" alt="Portfolio Project" />
         </a>
       </div>
     )

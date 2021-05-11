@@ -15,13 +15,13 @@ This repo contains and updated portfolio for my work, including six projects and
 
 ![Alt text](./assets/NotesHomepage.png?raw=true "Homepage")
 
-![Alt text](./assets/NotesPage.png?raw=true "Notes Page")
+![Alt text](./assets/NotesPage.png?raw=true "Portfolio")
 
 # Access
 
-You can find the deployed webpage here: 
+You can find the deployed webpage here: https://caitie-gorham.github.io/react-portfolio/
 
-You can find the GitHub repo here: 
+You can find the GitHub repo here: https://github.com/caitie-gorham/react-portfolio
 
 
 # Questions
