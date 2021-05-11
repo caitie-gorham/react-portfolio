@@ -1,5 +1,5 @@
 .header-nav {
-    background-color: #e5cace;
+    background-color: #b66531;
     font-family: "ITC Franklin Gothic";
     color: #363945;
     font-size: 1.5em;
@@ -7,14 +7,19 @@
   }
   
   .navbar-brand-name {
-    color: #363945;
+    color: white;
     font-size: xx-large;
     border: none;
-    background-color: #e5cace;
+    background-color: #b66531;
   }
   
   .navbar {
     padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: 80px;
+  }
+
+  .nav-link {
+    color: white;
+    font-size: medium;
   }
