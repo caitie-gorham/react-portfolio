@@ -14,10 +14,10 @@ function Header() {
                                     <a class="nav-link" href="/">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/portfolio">Portfolio</a>
+                                    <a class="nav-link" href="/portfolio-react">Portfolio</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/contact">Contact</a>
+                                    <a class="nav-link" href="/contact-react">Contact</a>
                                 </li>
                             </ul>
                         </div>
