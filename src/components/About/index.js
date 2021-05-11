@@ -1,5 +1,5 @@
 import React from "react";
-import "../About/style.css";
+import "../Footer/index";
 
 function About() {
     return (
