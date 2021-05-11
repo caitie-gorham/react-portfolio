@@ -1,10 +1,12 @@
 .footer-container {
+    position: fixed;
     background-color:#b66531;
     height: 45px;
     width: 100%;
+    left: 0;
     bottom: 0px;
     padding: 10px;
-    color:white
+    color:white;
   }
 
   p {
