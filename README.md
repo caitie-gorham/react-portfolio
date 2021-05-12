@@ -13,9 +13,11 @@
 
 This repo contains and updated portfolio for my work, including six projects and homeworks and contact information. 
 
-![Alt text](./assets/NotesHomepage.png?raw=true "Homepage")
+![Alt text](./Assets/home.png?raw=true "Homepage")
 
-![Alt text](./assets/NotesPage.png?raw=true "Portfolio")
+![Alt text](./Assets/portfolio.png?raw=true "Portfolio")
+
+![Alt text](./Assets/contact.png?raw=true "Contact")
 
 # Access
 
