@@ -32,4 +32,6 @@ Project Created By: Cait Gorham
 
 GitHub User Name: caitie-gorham
 
+LinkedIn: https://www.linkedin.com/in/caitiegorham/
+
 Email: em.caitie@gmail.com
